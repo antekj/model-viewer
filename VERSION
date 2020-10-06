@@ -1,0 +1,9 @@
+commit f057f7ab5972db9cf000fba6bd8eb1f53951aa8c
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Tue Oct 6 09:28:15 2020 -1000
+
+    Add header to mobile examples (#1608)
+    
+    * add header to examples on mobile to see toggle
+    
+    * close sidebar on mobile on click
